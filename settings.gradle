@@ -1,0 +1,2 @@
+include ':NhungFinalD2'
+rootProject.name = "NhungFinalD1"
